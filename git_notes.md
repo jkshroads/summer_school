@@ -32,6 +32,7 @@ Some notes abut markdown
 # Header 1
 ## Header 2
 - bullets
+  - nested bullet
 - another
 
 1. item 1
