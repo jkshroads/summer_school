@@ -35,6 +35,7 @@ Some notes abut markdown
 - another
 
 1. item 1
+  1. nested numbering
 
 1. numbering does not matter
 
