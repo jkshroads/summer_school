@@ -19,8 +19,11 @@ To create an empty repo: do not click on add LICENSE nor README!!
 ********************************************************************
 
 * Create link with github empty repo (inctruction also given by github)
+* 
 git remote add origin https://github.com/jcerezochem/summer_school.git
+
 git remote -v # check the remote
+
 git push origin master # send my local repo to githum. Github says to use -u (which is used to add upstream (tracking) reference
 
 Some notes abut markdown
@@ -32,7 +35,9 @@ Some notes abut markdown
 - another
 
 1. item 1
+
 1. numbering does not matter
+
 --------------------------------
 
 
